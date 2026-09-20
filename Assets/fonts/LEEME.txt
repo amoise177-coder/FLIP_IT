@@ -1,0 +1,6 @@
+Aqui van (si se quieren usar fuentes personalizadas):
+  titulo.ttf
+  subtitulo.ttf
+
+Si no se ponen, el juego usa una fuente del sistema (Arial) como
+respaldo automatico, asi que esto es opcional.
