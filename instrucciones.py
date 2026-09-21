@@ -22,9 +22,6 @@ PASOS = [
 
 COLORES_PASO = [ui.LAVANDA, ui.AZUL, ui.ROSA, ui.VERDE]
 
-CREDITOS = "Isabela Paraqueimo"
-
-
 def ejecutar_instrucciones(ventana, reloj):
     fondo = pygame.transform.smoothscale(
         constantes.get_fondo_menu(), (constantes.ANCHO, constantes.ALTO)
@@ -84,9 +81,6 @@ def ejecutar_instrucciones(ventana, reloj):
         ui.texto_centrado(ventana, "No hay reloj: puedes jugar con calma.",
                           f_nota, ui.TEXTO_SUAVE,
                           (panel_rect.centerx, panel_rect.bottom - 28))
-        ui.texto_centrado(ventana, CREDITOS, ui.fuente(17), ui.TEXTO_SUAVE,
-                          (constantes.ANCHO // 2, 690))
-
         btn_volver.actualizar(mouse_pos, presionando)
         btn_volver.dibujar(ventana)
 
