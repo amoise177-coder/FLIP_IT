@@ -1,0 +1,9 @@
+{
+    "nombre": "Ball Sort",
+    "autores": [
+        "Carlos Pacheco 26.756.281"
+    ],
+    "version": "1.0.0",
+    "descripcion": "Organiza las bolas para que cada tubo contenga únicamente bolas del mismo color",
+    "grupo": "Grupo #11"
+}

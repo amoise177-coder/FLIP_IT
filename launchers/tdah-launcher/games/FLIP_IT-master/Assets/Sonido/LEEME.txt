@@ -1,0 +1,10 @@
+Musica de fondo (opcional, el juego funciona en silencio si faltan):
+  sonido_fondo.mp3        -> musica del menu
+  sonido_juego.mp3        -> musica durante la partida
+  sonido_instrucciones.mp3 (no se usa todavia, reservado)
+
+Efectos de sonido cortos van en la carpeta sfx/ como .ogg:
+  sfx/boton.ogg
+  sfx/carta.ogg
+  sfx/correcto.ogg
+  sfx/incorrecto.ogg

@@ -1,0 +1,15 @@
+Windows Registry Editor Version 5.0
+
+[HKEY_CLASSES_ROOT\.py\shell\EnfocateEjecutar]
+@="Ejecutar"
+"Icon"="C:\\Windows\\System32\\imageres.dll,73"
+
+[HKEY_CLASSES_ROOT\.py\shell\EnfocateEjecutar\command]
+@="\"C:\\Users\\DELL\\Desktop\\launcher taller\\enfocate-interfaz\\ejecutar_enfocate.bat\" \"%1\""
+
+[HKEY_CLASSES_ROOT\Python.File\shell\EnfocateEjecutar]
+@="Ejecutar"
+"Icon"="C:\\Windows\\System32\\imageres.dll,73"
+
+[HKEY_CLASSES_ROOT\Python.File\shell\EnfocateEjecutar\command]
+@="\"C:\\Users\\DELL\\Desktop\\launcher taller\\enfocate-interfaz\\ejecutar_enfocate.bat\" \"%1\""

@@ -1,0 +1,58 @@
+[submodule "games/Lunes_8"]
+	path = games/Lunes_8
+	url = https://github.com/orlxjr/cg.git
+[submodule "games/Lunes_7"]
+	path = games/Lunes_7
+	url = https://github.com/Abelardodrika/juego_dardos.git
+	branch = main
+[submodule "games/Jueves_7"]
+	path = games/Jueves_7
+	url = https://github.com/mejiasgabriel3223-cloud/Running_Time.git
+	branch = main
+[submodule "games/Jueves_2"]
+	path = games/Jueves_2
+	url = https://github.com/Kurui02/Proyecto_MMA.git
+	branch = master
+[submodule "games/Lunes_1"]
+	path = games/Lunes_1
+	url = https://github.com/CesarMoya27/Swim-Rush.git
+	branch = master
+[submodule "games/Lunes_3"]
+	path = games/Lunes_3
+	url = https://github.com/Juan-Diego2020/Juego-de-Taller-de-Abstraccion-Lanzamiento-de-Jabalina.git
+	branch = main
+[submodule "games/Lunes_5"]
+	path = games/Lunes_5
+	url = https://github.com/isarocca/Cricket_Super_Stars.git
+	branch = main
+[submodule "games/Jueves_3"]
+	path = games/Jueves_3
+	url = https://github.com/Lui525/Volley-Bounce
+	branch = main
+[submodule "games/Jueves_8"]
+	path = games/Jueves_8
+	url = https://github.com/JoseangelCR12/Ping-Pong
+[submodule "games/Jueves_4"]
+	path = games/Jueves_4
+	url = https://github.com/AlcArt-25/Motocross-modulo-4-main.git
+[submodule "games/Jueves_1"]
+	path = games/Jueves_1
+	url = https://github.com/FabiMG17/Taller1_jueves.git
+[submodule "games/Jueves_6"]
+	path = games/Jueves_6
+	url = https://github.com/walberparker/Bowling.git
+[submodule "games/Lunes_4"]
+	path = games/Lunes_4
+	url = https://github.com/endermanu11/Court-Kings.git
+[submodule "games/Lunes_6"]
+	path = games/Lunes_6
+	url = https://github.com/pedrokmv0710/Pool-8-Billar.git
+[submodule "games/Lunes_9"]
+	path = games/Lunes_9
+	url = https://github.com/Chris15-10/Pixel-GP.git
+[submodule "games/Jueves_9"]
+	path = games/Jueves_9
+	url = https://github.com/Frednat23/Head_Soccer_grupo9_acomodado
+[submodule "games/Jueves_5"]
+	path = games/Jueves_5
+	url = https://github.com/OrlianaA/Bici-game-Pygame-.git

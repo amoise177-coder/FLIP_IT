@@ -9,3 +9,13 @@ tempCodeRunnerFile.py
 dist/
 build/
 *.spec
+
+# Local/editor files
+.vscode/
+*.code-workspace
+
+# Archives and generated media too large for GitHub
+*.zip
+*.rar
+*.7z
+*.mp4

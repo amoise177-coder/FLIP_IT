@@ -1,0 +1,9 @@
+{
+    "nombre_juego": "MenteActiva",
+    "autores": [
+        "Edgardo Quiñones",
+        "Maiglis Campos"
+    ],
+    "version": "1.0.0",
+    "descripcion": "Juego de memoria visual-auditiva con sistema adaptativo de pistas sensoriales para estimulación cognitiva."
+}

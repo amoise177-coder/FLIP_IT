@@ -1,0 +1,12 @@
+{
+    "title": "Serpientes y Escalers",
+    "description": "Un dinámico juego de mesa de azar y carreras donde las escaleras te ayudan a subir y las serpientes te hacen caer hasta alcanzar la casilla final.",
+    "authors": [
+        "Valiant Molero",
+        "Lidia Perez",
+        "Luis Esparragoza",
+        "Pedro"
+    ],
+    "group_number": 3,
+    "controls": "Mouse"
+}

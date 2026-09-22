@@ -1,0 +1,9 @@
+{
+  "nombre_juego": "SUPER QUIZ 64",
+  "autores": [
+    "Miguel Salazar",
+    "Alejandro Nadales"
+  ],
+  "version": "1.0.0",
+  "descripcion": "Juego interactivo para asociar sonidos con sus respectivas imagenes."
+}

@@ -1,0 +1,6 @@
+{
+  "nombre_juego": "Encuentra al Intruso",
+  "autores": ["Adrian Figueroa", "Ender Beltran"],
+  "version": "1.0.0",
+  "descripcion": "Juego de estimulación cognitiva en grilla para encontrar al objeto intruso."
+}

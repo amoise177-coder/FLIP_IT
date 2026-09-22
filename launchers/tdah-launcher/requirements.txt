@@ -1,0 +1,3 @@
+# Dependencias del launcher V-Sports
+# El proyecto actual solo necesita pygame para ejecutarse.
+pygame>=2.6.1,<2.7

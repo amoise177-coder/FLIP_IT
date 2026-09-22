@@ -1,0 +1,56 @@
+[
+    {
+        "modo": "Amistosa",
+        "aciertos": 10,
+        "total": 10,
+        "precision": 100.0
+    },
+    {
+        "modo": "Amistosa",
+        "aciertos": 6,
+        "total": 10,
+        "precision": 60.0
+    },
+    {
+        "modo": "Amistosa",
+        "aciertos": 5,
+        "total": 10,
+        "precision": 50.0
+    },
+    {
+        "modo": "Amistosa",
+        "aciertos": 7,
+        "total": 10,
+        "precision": 70.0
+    },
+    {
+        "modo": "Amistosa",
+        "aciertos": 10,
+        "total": 10,
+        "precision": 100.0
+    },
+    {
+        "modo": "Test",
+        "aciertos": 20,
+        "total": 20,
+        "precision": 100.0
+    },
+    {
+        "modo": "Amistosa",
+        "aciertos": 10,
+        "total": 10,
+        "precision": 100.0
+    },
+    {
+        "modo": "Test",
+        "aciertos": 20,
+        "total": 20,
+        "precision": 100.0
+    },
+    {
+        "modo": "Test",
+        "aciertos": 19,
+        "total": 20,
+        "precision": 95.0
+    }
+]

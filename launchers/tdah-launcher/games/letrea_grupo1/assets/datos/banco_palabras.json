@@ -1,0 +1,74 @@
+{
+    "Colores": {
+        "palabras": [
+            "AZUL", "AMARILLO", "BLANCO", "BEIGE", "CELESTE", "CAFÉ", 
+            "CASTAÑO", "CREMA", "DORADO", "FUCSIA", "GRIS", "LILA", 
+            "MORADO", "MARRÓN", "NARANJA", "NEGRO", "PÚRPURA", "PLATEADO", 
+            "ROJO", "ROSADO", "SALMÓN", "TURQUESA", "VERDE", "VIOLETA"
+        ],
+        "excluidas": ["E", "H", "I", "J", "K", "Ñ", "O", "Q", "U", "W", "X", "Y", "Z"]
+    },
+    "Animales": {
+        "palabras": [
+            "ABEJA", "ARARA", "ARAÑA",  "AGUILA", "ARABITO", "BUHO", "BURRO", "BALLENA", "BABA", 
+            "BACHA", "CABALLO", "CONEJO", "CUNAGUARO", "CHIGUIRE", "CAPIBARA",  "CERCO", "COCHINO", "CUNAGUARO", "COCODRILO", "CAIMAN", "COTORRO", "COTORRA",  
+            "DELFÍN", "DINGO", "ELEFANTE", "ERIZO", "FOCA", "FLAMENCO", 
+            "GATO", "GORILA", "GALLINA", "GUACAMAYO", "GUACAMAYA",  "GUACHARACA", "HIENA", "HÁMSTER", 
+            "HIPOPÓTAMO", "IGUANA", "JIRAFA", "JAGUAR", "JICOTEA", "KOALA", 
+            "LEÓN", "LORO", "LAPA", "MONO", "MARIPOSA", "MURCIELAGO", "MORROCOY", "MAMUT",
+            "NUTRIA", "NARVAL", "OSO", "OVEJA", "ORNITORRINCO",  "PERRO", "PATO", "PÁJARO", 
+            "PEZ", "PEZUAÑA", "QUOKKA", "RANA", "RATÓN", "RINOCERONTE", 
+            "RABIPELADO", "SERPIENTE", "SAPO", "TIGRE", "TORTUGA", "TUCÁN", 
+            "TOCHE", "URRACA", "VACA", "VENADO", "WOMBAT", "XIFOFORO", 
+            "ZORRO", "ZORRILLO", "ZAMURO"
+        ],
+        "excluidas": ["Ñ", "Y"]
+    },
+    "Partes del Cuerpo": {
+        "palabras": [
+            "ABRIGO", "ANILLO", "ANTEOJOS", "LENTES", "GAFAS", "BOCA", "BRAZO", 
+            "BUFANDA", "BOTAS", "CABEZA", "CAMISA", "CALCETÍN", "MEDIA", 
+            "CHALECO", "CHAQUETA", "CORBATA", "CALZONES", "DEDO", "DIENTE", 
+            "ESPALDA", "ESPEJUELOS", "FALDA", "FAJA", "GARGANTA", "GORRO", 
+            "GUANTES", "HOMBRO", "HUESO", "LENGUA", "LABIOS", "MANO", "MOCHILA", 
+            "MAMILA", "TETERO", "MONO", "NARIZ", "NALGAS", "OJO", "OREJA", 
+            "OVEROL", "PIE", "PIERNA", "PANTALÓN", "PIJAMA", "PANTUFLAS", 
+            "RODILLA", "ROSTRO", "REMERA", "SUÉTER", "SOMBRERO", "SANDALIAS", 
+            "SHORT", "TALÓN", "TOBILLO", "TRAJE", "VESTIDO", "VENA", "ZAPATO", "ZAPATILLA"
+        ],
+        "excluidas": ["U", "I", "J", "K", "Ñ", "Q", "W", "X", "Y"]
+    },
+    "Frutas y Comida": {
+        "palabras": [
+            "AGUACATE", "APIO", "ARROZ", "AREPA", "AUYAMA", "BANANA", "CAMBUR", 
+            "BATATA", "BRÓCOLI", "BOLLITO", "CEREZA", "CEBOLLA", "CIRUELA", 
+            "CASABE", "CACAO", "DURAZNO", "DATIL", "ESPINACA", "ELOTE", "MAIZ", 
+            "EMPANADA", "FRESA", "FRAMBUESA", "FRESCO", "GUAYABA", "GALLETA", 
+            "GUANÁBANA", "GUARAPO", "HIGO", "HELADO", "HALLACA", "JENGIBRE", 
+            "JUGO", "JOBO", "KIWI", "KETCHUP", "LIMON", "LECHUGA", "LECHOSA", 
+            "LULO", "PARCHA", "MANZANA", "MANDARINA", "MORA", "MANGO", "MAMON", 
+            "MELÓN", "MANDOCA", "NARANJA", "NUEZ", "NABO", "NISPERO", "PERA", 
+            "PIÑA", "PAPA", "PLATANO", "PATILLA", "PAPAYA", "PARCHITA", "PASTEL", 
+            "QUESO", "QUESILLO", "RABANO", "REMOLACHA", "REPOLLO", 
+            "SANDIA", "SOPA", "SANCOCHITO", "TOMATE", "TORONJA", "TORTA", "TOSTÓN", 
+            "UVA", "VAINILLA", "YUCA", "YOGURT", "ZANAHORIA", "ZAPALLO", "ZUMO"
+        ],
+        "excluidas": ["I", "Ñ", "O", "W", "X"]
+    },
+    "Objetos de la Casa": {
+        "palabras": [
+            "ALMOHADA", "ALFOMBRA", "ARMARIO", "ASIENTO", "AIRE ACONDICIONADO", 
+            "ABANICO", "VENTILADOR", "BAÑERA", "BOMBILLO", "BATEA", "BUDARE",  "BIBLIOTECA", "BOMBA", 
+            "CAMA", "CONTROL", "CUCHARA", "CUADRO", "COLCHÓN", "CUCHILLO", "CALDERO", 
+            "DUCHA", "DIVÁN", "ESPEJO", "ESCOBA", "ESTANTE", "ENCHUFE", 
+            "FREGADERO", "FOTOGRAFÍA", "GRIFO", "GUANTE", 
+            "HORNO", "HAMACA", "HELADERA", "NEVERA", "INODORO", "POCETA", "JARRÓN", 
+            "JUGUETE", "LÁMPARA", "LICUADORA", "LAVADORA", "LAVAPLATOS", "MESA", 
+            "MANTA", "MARTILLO", "MICROONDAS", "NECESER", "OLLA", "PUERTA", 
+            "PLATO", "PLANCHA", "PORCELANA", "RADIO", "RELOJ", "ROPERO", "SILLA", 
+            "SOFÁ", "SARTÉN", "SECADOR", "TAZA", "TELÉFONO", "TELEVISOR", "TETERA", 
+            "TELE", "TOALLA", "VASO", "VENTANA"
+        ],
+        "excluidas": ["K", "Ñ", "Q", "U", "W", "X", "Y", "Z"]
+    }
+}

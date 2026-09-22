@@ -1,0 +1,66 @@
+[
+  {
+    "nombre": "Pedro",
+    "rol": "Abuelo",
+    "genero": "M",
+    "caracteristica": "Disfruta caminar en el parque",
+    "color": [222, 152, 68],
+    "padre": null
+  },
+  {
+    "nombre": "Carmen",
+    "rol": "Abuela",
+    "genero": "F",
+    "caracteristica": "Le encanta tejer bufandas",
+    "color": [176, 109, 143],
+    "padre": null
+  },
+  {
+    "nombre": "Ana",
+    "rol": "Madre",
+    "genero": "F",
+    "caracteristica": "Le gusta cocinar",
+    "color": [219, 107, 79],
+    "padre": "Pedro"
+  },
+  {
+    "nombre": "Roberto",
+    "rol": "Tío",
+    "genero": "M",
+    "caracteristica": "Le encanta pescar los fines de semana",
+    "color": [76, 140, 143],
+    "padre": "Carmen"
+  },
+  {
+    "nombre": "Carlos",
+    "rol": "Hijo",
+    "genero": "M",
+    "caracteristica": "Trabaja como profesor",
+    "color": [58, 111, 158],
+    "padre": "Ana"
+  },
+  {
+    "nombre": "Laura",
+    "rol": "Hija",
+    "genero": "F",
+    "caracteristica": "Le gusta leer",
+    "color": [138, 95, 165],
+    "padre": "Ana"
+  },
+  {
+    "nombre": "Sofía",
+    "rol": "Nieta",
+    "genero": "F",
+    "caracteristica": "Le encanta pintar paisajes",
+    "color": [224, 150, 168],
+    "padre": "Carlos"
+  },
+  {
+    "nombre": "Diego",
+    "rol": "Nieto",
+    "genero": "M",
+    "caracteristica": "Juega fútbol todos los fines de semana",
+    "color": [99, 150, 88],
+    "padre": "Laura"
+  }
+]
